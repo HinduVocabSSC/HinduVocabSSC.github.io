@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="logo.png" width="120">
+</p>
+
+<h1 align="center">Hindu Vocab SSC</h1>
+
+<p align="center">
+  Learn vocabulary with stylish flashcards 🚀
+</p>
 # 📘 Hindu Vocab SSC
 
 Welcome to my SSC vocabulary flashcards based on The Hindu newspaper.
