@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 # 📘 Hindu Vocab SSC
 
 Welcome to my SSC vocabulary flashcards based on The Hindu newspaper.
