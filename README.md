@@ -5,7 +5,7 @@
 
 Welcome to my SSC vocabulary flashcards based on The Hindu newspaper.
 
-align="center">📅 Monthly Vocabulary</h2>
+📅 Monthly Vocabulary</h2>
 
 <p align="center">
   <a href="April-2026.md">
